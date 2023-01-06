@@ -16,4 +16,3 @@ Hello! I'm Nicholi, a software engineer who enjoys architecting and building app
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicholidev" alt="Nicholi"/> </p>
