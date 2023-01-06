@@ -16,15 +16,4 @@ Hello! I'm Nicholi, a software engineer who enjoys architecting and building app
 
 
 
-<div align="center">
-  
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/nicholidev/nicholidev/output/github-contribution-grid-snake-dark.svg)
- 
-  [![Nicholi's github activity graph](https://activity-graph.herokuapp.com/graph?username=nicholidev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  ![GitHub stats](https://raw.githubusercontent.com/nicholidev/nicholidev/master/profile-3d-contrib/profile-night-green.svg)
-</div>
-
-<hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=id1945" alt="id1945"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicholidev" alt="Nicholi"/> </p>
