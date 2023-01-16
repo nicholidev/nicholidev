@@ -8,6 +8,7 @@ Hello! I'm Nicholi, a software engineer who enjoys architecting and building app
 - <a href="https://www.codingame.com/profile/2d2f02e5a43320543afb8352edcaf6cd3601874" target="_blank" rel="noreferrer">Codingame</a>
 - <a href="https://nicholijin.com/" target="_blank" rel="noreferrer">My personal portfolio</a>
 - <a href="https://join.skype.com/invite/hwp9PMp0W8mA" target="_blank" rel="noreferrer">Skype</a>
+- <a href="https://calendly.com/event_types/user/me" target="_blank" rel="noreferrer">Calendy</a>
 
 
 <br/>
