@@ -6,7 +6,7 @@ Hello! I'm Nicholi, a software engineer who enjoys architecting and building app
 ### How to reach me?
 - <a href="https://www.linkedin.com/in/nicholi-jin-093388233" target="_blank" rel="noreferrer">LinkedIn</a>
 - <a href="https://www.codingame.com/profile/2d2f02e5a43320543afb8352edcaf6cd3601874" target="_blank" rel="noreferrer">Codingame</a>
-- <a href="https://nicholijin.com/" target="_blank" rel="noreferrer">My personal portfolio</a>
+- <a href="https://nicholijin.com/" target="_blank" rel="noreferrer">My website</a>
 - <a href="https://join.skype.com/invite/hwp9PMp0W8mA" target="_blank" rel="noreferrer">Skype</a>
 - <a href="https://calendly.com/nicholijin/30min" target="_blank" rel="noreferrer">Calendy</a>
 
