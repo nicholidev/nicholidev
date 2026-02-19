@@ -1,13 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=500&lines=Hi+%F0%9F%91%8B%2C+I%27m+a+Senior+Web+Engineer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=500&lines=Hi+%F0%9F%91%8B%2C+I%27m+a+Senior+Soft+Engineer)](https://git.io/typing-svg)
 
 
 Hello! I'm a software engineer who enjoys architecting and building applications. I develop software and websites using modern technologies such as TypeScript, React, Next.js & MUI to name a few. I spend most of my spare time programming personal projects or solving CodinGame challenges.
-
-### How to reach me?
-- <a href="https://nicholijin.com/" target="_blank" rel="noreferrer">My website</a>
-- <a href="https://www.codingame.com/profile/2d2f02e5a43320543afb8352edcaf6cd3601874" target="_blank" rel="noreferrer">Codingame</a>
-- <a href="https://join.skype.com/invite/hwp9PMp0W8mA" target="_blank" rel="noreferrer">Skype</a>
-- <a href="https://calendly.com/nicholijin/30min" target="_blank" rel="noreferrer">Calendy</a>
 
 
 <br/>
